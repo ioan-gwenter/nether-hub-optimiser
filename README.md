@@ -5,4 +5,4 @@ A simple python tool for optimising nether-highway travel paths.
 
 Input your currently defined portals in the dictionary provided, plus add your hub location. Run the script for a pseudo-optimal layout for nether highways.
 
-The current algorithm will attempt to prioritise sticking to the inital cardinal directions (NSEW) before creating sub-highways.
+The current algorithm will attempt to prioritise sticking to the inital cardinal directions (NSEW) before creating sub-highways via a greedy approach
