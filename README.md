@@ -1,5 +1,5 @@
 # nether-hub-optmiser
-A simple python tool for optimising nether-highway travel paths.
+A simple python tool for optimising nether-highway travel paths in Minecraft.
 
 ![image](https://github.com/user-attachments/assets/98c31e5b-a824-43f9-86e0-e72b38ea1abc)
 
